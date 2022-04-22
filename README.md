@@ -9,7 +9,7 @@
             </b>
         <br>
         <br>
-          <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=BC83E3&center=true&width=410&height=45&lines=I+code+because+it+is+fun.">
+          <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=BC83E3&center=true&width=410&height=45&lines=I+code+because+it's+fun.">
         <br>
             <b>
             ~ Abel Sánchez ~
