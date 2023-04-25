@@ -3,13 +3,13 @@
     <p align="center">
       <samp><br>
             <b>
-            Hello There
+            Hello There!
         <br>
             I'm Markov, a Student, and Linux enthusiast.
             </b>
         <br>
         <br>
-          <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=BC83E3&center=true&width=410&height=45&lines=I+code+because+it's+fun.">
+          <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=BC83E3&center=true&width=410&height=45&lines=Everything+can+be+optimized.">
         <br>
             <b>
             ~ Abel Sánchez ~
