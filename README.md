@@ -33,6 +33,6 @@
 </a> </p>
 <br>
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markov-Komarov&show_icons=true&theme=dracula&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markov-Komarov&show_icons=true&theme=dracula&layout=compact&hide=html,roff,css" />
 </a></p>
 <p align="right"><strong><samp>」</samp></strong></p>
